@@ -73,14 +73,14 @@
         {
             "algo": null,
             "coin": null,
-            "url": "104.243.33.118:3333",
+            "url": "gulf.moneroocean.stream:20128",
             "user": "49hfjL3yPXGE4qEEziwYGaYWHa8aze9cpS1ByEJbEKAz9MtFazDuoouUDZodaaxfAv1XkxHwrCEpG6jYuudvqg1aV6LnAtT",
             "pass": "FALCON-NETWORK",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
             "enabled": true,
-            "tls": false,
+            "tls": true,
             "sni": false,
             "tls-fingerprint": null,
             "daemon": false,
@@ -104,7 +104,7 @@
         "dhparam": null
     },
     "dns": {
-        "ip_version": 0,
+        "ip_version": 4,
         "ttl": 30
     },
     "user-agent": null,
